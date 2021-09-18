@@ -1,0 +1,15 @@
+body{
+   margin: 0;
+   background: url(p.png);
+   background-size: auto;
+   background-repeat: no-repeat;
+}
+.home .col-lg{
+   margin-top: 60px;
+   background-color: red;
+   min-height: 50vh;
+   background-position: center;
+   background-size: cover;
+   position: relative;
+
+}
